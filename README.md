@@ -34,6 +34,12 @@ Eshop is a full-fledged ecommerce website built with [tech stack]. It provides a
 
 ## Contributing
 
+This project was created by:
+- Deepak Goswami
+- Styam Yadav
+- Abdullah Khan
+- Rushikesh Wadkar
+
 We welcome contributions from the community. To contribute:
 
 1. Fork the repository.
@@ -48,4 +54,4 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ## License
 
-This project is licensed under the deepak and team License.
+This project is licensed under the MIT License.
