@@ -54,4 +54,4 @@ If you encounter any issues or have suggestions for improvement, please [open an
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the deepak and team License.
